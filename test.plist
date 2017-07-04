@@ -37,7 +37,7 @@
    <key>metadata</key>
    <dict>
    <key>bundle-identifier</key>
-     BundleID，就是新建app时的包名
+     <!-- BundleID，就是新建app时的包名 -->
     <string>com.justep.x5.demo</string> 
     <key>bundle-version</key>
     <!-- 版本号 -->
