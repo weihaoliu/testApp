@@ -38,7 +38,7 @@
    <dict>
    <key>bundle-identifier</key>
      <!-- BundleID，就是新建app时的包名 -->
-    <string>com.justep.x5.demo</string> 
+    <string>com.ar_game.babagamma</string> 
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>5.3.3</string>
